@@ -1,0 +1,27 @@
+.container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.heading {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form_container {
+    max-width: 500px;
+    margin: auto;
+    border-radius: 1rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.card-body {
+    border-radius: 1rem;
+    padding: 20px;
+}
+
+.profile_img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
